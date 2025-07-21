@@ -1,7 +1,7 @@
 
 # Linkedgo Bridge Integration for Home Assistant
 
-[English](./README.md) | [简体中文](.README_zh.md)
+[English](./README.md) | [简体中文](./README_zh.md)
 
 <p align="left">
   <img src="https://omo-oss-image.thefastimg.com/portal-saas/pg2024022210453839417/cms/image/314152a9-c7a1-4082-8a0e-d7e5c7f81df9.png_186xaf.png" alt="linkedgo" title="linkedgo" la="la">
